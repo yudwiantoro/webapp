@@ -40,6 +40,6 @@
     "theme_color": "#D5E0EB",
     "display": "standalone",
     "orientation": "portrait",
-    "start_url": "https:\/\/yudwiantoro.github.io\/webapp\/",
+    "start_url": "https:\/\/yudwiantoro.github.io\/webapp\/index.html",
     "scope": "https:\/\/yudwiantoro.github.io\/webapp\/"
 }
